@@ -1,0 +1,33 @@
+_repo: The-Primrose-Path-A-Chapter-in-the-Annals-of-the-Kingdom-of-Fife_65458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Oliphant, Mrs.
+    - Olyphant, Mrs.
+    - Oliphant, Margaret Oliphant Wilson
+    - Wilson, Margaret
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, Mrs. Margaret
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2021-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fife (Scotland) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Primrose Path: A Chapter in the Annals of the Kingdom of Fife'
+url: http://www.gutenberg.org/ebooks/65458
